@@ -33,7 +33,7 @@
         </form>
 
         <div class="text-center mt-3">
-            <a href="login.html" class="btn btn-secondary">🔙 Volver</a>
+            <a href="../index.html" class="btn btn-secondary">🔙 Volver</a>
         </div>
     </div>
 </div>
